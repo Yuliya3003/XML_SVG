@@ -75,6 +75,11 @@ a {
 .result_title {
     font-size:30px;
 }
+.styles {
+    display:flex;
+    flex-direction: row;
+    gap:2%;
+}
 .link1 {
     width:30%;
 }
