@@ -7,7 +7,7 @@
                 <script id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
             </head>
             <body>
-                <h4 id="author" title="GossJS">Чикалева Юлия</h4>
+                <h4 id="author" title="Yuliya">Чикалева Юлия</h4>
                 <a href="../index.html" class="breadcrumbs">Вернуться назад</a>
                 <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
                     <xsl:apply-templates/>

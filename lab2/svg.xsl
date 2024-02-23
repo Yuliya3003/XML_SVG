@@ -3,7 +3,7 @@
     <xsl:template match="/">
         <html lang="en">
             <body>
-                <h4 id="author" title="GossJS">Чикалева Юлия</h4>
+                <h4 id="author" title="Yuliya">Чикалева Юлия</h4>
                 <a href="../index.html">Вернуться назад</a>
                 <xsl:apply-templates />
             </body>
